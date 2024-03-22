@@ -1,0 +1,19 @@
+/* user_list.css */
+
+.user-list {
+    list-style: none;
+    padding: 0;
+}
+
+.user-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.user-list .name {
+    font-weight: bold;
+}
+
+.user-list .email {
+    color: #666;
+}
